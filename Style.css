@@ -1,0 +1,16 @@
+h1 {
+  font-family:serif;
+  color:black;
+}
+
+body {
+	background-color: lightgray;
+	padding: 10px 100px 150px;
+}
+
+#sports {
+	text-align: center;
+	background-color: violet;
+}
+
+
